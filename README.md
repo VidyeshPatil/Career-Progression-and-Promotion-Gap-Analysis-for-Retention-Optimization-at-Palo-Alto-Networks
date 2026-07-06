@@ -22,6 +22,8 @@ This project presents an interactive **HR Analytics Dashboard** built with **Pyt
 
 The dashboard helps HR teams identify promotion delays, understand workforce trends, segment employees, and generate actionable insights that support data-driven decision-making.
 
+Project deployed stemalit link : https://carrerprogressionandpromotiongapanalysis.streamlit.app/
+
 ---
 
 ## ✨ Features
@@ -110,25 +112,6 @@ Interactive Dashboard
       ▼
 Business Insights
 ```
-
----
-
-## 📸 Screenshots
-
-Add your screenshots inside:
-
-```text
-assets/screenshots/
-```
-
-Example:
-
-- overview.png
-- executive.png
-- promotion_gap.png
-- retention.png
-
----
 
 ## ⚙️ Installation
 
