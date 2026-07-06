@@ -62,25 +62,6 @@ The dashboard helps HR teams identify promotion delays, understand workforce tre
 
 ---
 
-## 📂 Project Structure
-
-```text
-Career-Progression-and-Promotion-Gap-Analysis/
-│
-├── assets/
-│   ├── banner.png
-│   ├── demo.gif
-│   └── screenshots/
-├── data/
-├── models/
-├── pages/
-├── app.py
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## 📊 Dashboard Modules
 
 ### 🏠 Overview
